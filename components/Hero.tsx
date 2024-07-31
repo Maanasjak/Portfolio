@@ -31,7 +31,7 @@ const Hero = () => {
           words="Creative solutions for modern challenges"
         />
         <p className="text-center md:tracking-widest mb-4 text-sm md:text-lg lg:test-2xl">
-          Hi, I'm Maanas, a Web Developer.
+          Hi, I&apos;m Maanas, a Web Developer.
         </p>
         <a href="#about">
           <MagicButton 
