@@ -37,3 +37,15 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 Share it with your friends to shoe your creation and learn :)
+
+## Here are some pics for you-
+
+![Image 1](https://github.com/Maanasjak/Portfolio/blob/main/public/ref/1.png)
+![Image 2](https://github.com/Maanasjak/Portfolio/blob/main/public/ref/2.png)
+![Image 3](https://github.com/Maanasjak/Portfolio/blob/main/public/ref/3.png)
+![Image 4](https://github.com/Maanasjak/Portfolio/blob/main/public/ref/4.png)
+![Image 5](https://github.com/Maanasjak/Portfolio/blob/main/public/ref/5.png)
+
+Don't forget to click X or insta button at the bottom right.
+
+See the website live with animations [here](https://portfolio-lemon-delta-49.vercel.app/).
